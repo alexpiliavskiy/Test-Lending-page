@@ -264,7 +264,7 @@ body {
   width: 12px;
   height: 12px;
   background-color: #000;
-  margin: 0 4px; /* Установите отступы между индикаторами */
+  margin: 0 4px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
